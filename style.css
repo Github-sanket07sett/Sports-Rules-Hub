@@ -290,11 +290,12 @@ header {
 	.about-us {
 	  height: auto; /* Change this */
 	  padding: 10px 0;
+	  
 	}
   
 	.about {
 	  flex-direction: column; /* Change this */
-	  align-items: center;
+	 
     text-align: center;
 	}
   
@@ -311,6 +312,8 @@ header {
 	}
 	.text p{
 		text-align: justify;
+		word-spacing: -0.1em;
+		line-height: 25px;
 	}
   }
   
@@ -394,7 +397,7 @@ header {
 	  
 	  .button {
 		background-color: rgb(33, 239, 6);
-		color: #e4dfdf;
+		color: white;
 		border: black;
 		padding: 10px 20px;
 		border-radius: 5px;
