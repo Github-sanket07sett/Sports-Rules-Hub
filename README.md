@@ -1,2 +1,2 @@
 ##   LIVE LINK
-[Live link](https://sportyyy-rule.netlify.app/)
+[Live link](https://rule-hub.netlify.app/#)
