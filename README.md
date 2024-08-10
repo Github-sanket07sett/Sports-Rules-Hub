@@ -1,4 +1,4 @@
-# Sports Rules Website
+# Sports Rules Website [ link](https://rule-hub.netlify.app/#)
 ## Overview
  Welcome to the Sports Rules Website! This site provides comprehensive and easy-to-understand rules for the top 12 most popular sports worldwide. Whether you're a beginner wanting to learn a new sport or a seasoned player needing a quick refresher, this website has you covered.
 
@@ -12,5 +12,4 @@
 2. CSS3: For styling the website and creating a visually appealing design.
 3. JavaScript: For adding interactivity and enhancing user experience.
 
-##   LIVE LINK
-[Live link](https://rule-hub.netlify.app/#)
+
